@@ -11,6 +11,7 @@ Music sourced from **chillhop** all music used is free and streamed from the chi
 App uses **`util.js`** as a hard coded API as there is no chillhop or music streaming API with all of the info needed for the custom UI elements.
 
 ### Data structure
+
 ```
 {
 name: "Nights At The Beach",
@@ -44,4 +45,5 @@ $ npm start
 ```
 
 #### Page preview
+
 ![Page Preview](./images/preview.png)
