@@ -4,7 +4,7 @@
 
 React practise project.
 
-###Details
+### Details
 
 Music sourced from **chillhop** all music used is free and streamed from the chillhop cdn.
 
