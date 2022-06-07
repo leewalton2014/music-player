@@ -38,7 +38,7 @@ active: false,
 
 To run this project, install it locally using npm:
 
-```
+```bash
 $ cd ../lorem
 $ npm install
 $ npm start
