@@ -12,13 +12,13 @@ App uses **`util.js`** as a hard coded API as there is no chillhop or music stre
 
 ### Data structure
 
-```
+```js
 {
 name: "Nights At The Beach",
 cover: "https://chillhop.com/wp-content/uploads/2020/05/260a909fca701bbb7593f5f8f9cff9508cca2856-1024x1024.jpg",
 artist: "Sitting Duck, Otaam",
 audio: "https://mp3.chillhop.com/serve.php/?mp3=7947",
-color: ["#FDE2CF", "#4BB7C4"], (used for custom progress bar gradient)
+color: ["#FDE2CF", "#4BB7C4"],
 id: uuidv4(),
 active: false,
 },
